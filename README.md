@@ -8,15 +8,7 @@
 
 Aplicación de consola para consultar la **hora actual en tiempo real** de distintas ciudades y zonas horarias usando Node.js, `moment-timezone`, `inquirer` y `chalk`.
 
----
 
-## 🎥 **Demo**
-
-![Demo Reloj Mundial CLI](https://your-repo-link.com/demo.gif)
-
-> 🔺 **Nota:** reemplaza el enlace con tu GIF de demostración real alojado en tu repositorio o en [imgur.com](https://imgur.com).
-
----
 
 ## ✨ **Características**
 
@@ -43,5 +35,5 @@ Aplicación de consola para consultar la **hora actual en tiempo real** de disti
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tuusuario/reloj-mundial.git
+git clone https://github.com/jeanmarlonandresbarajasosorio/reloj_mundial
 cd reloj-mundial
